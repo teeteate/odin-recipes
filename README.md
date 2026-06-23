@@ -1,7 +1,7 @@
 # $\color{#fe5d9f}{\text{Odin-Recipes}}$
 
-<strong>Live Demo</strong>: Link to GithubPages site
-<video width="640" height="360" controls><source src="/site-recording.mp4" type="video/mp4"></video>
+<strong>Live Demo</strong>
+<video width="640" height="360" controls><source src="site-recording.mp4" type="video/mp4"></video>
 
 
 ## $\color{#f686bd}{\text{Overview}}$
