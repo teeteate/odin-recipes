@@ -1,6 +1,6 @@
 # $\color{#fe5d9f}{\text{Odin-Recipes}}$
 
-<strong>Live Demo</strong>: ![Live Demo](site-recording.gif)
+<strong>Live Demo</strong>: <img src="site-recording.gif" width="50%" alt="Screen Recording of Live Demo" />
 
 
 ## $\color{#f686bd}{\text{Overview}}$
