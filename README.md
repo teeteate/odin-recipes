@@ -1,6 +1,6 @@
 # $\color{#fe5d9f}{\text{Odin-Recipes}}$
 
-<strong>Live Demo</strong>: <img src="site-recording.gif" width="50%" alt="Screen Recording of Live Demo" />
+<strong>Live Demo</strong>:<p><img src="site-recording.gif" width="50%" alt="Screen Recording of Live Demo" /></p>
 
 
 ## $\color{#f686bd}{\text{Overview}}$
